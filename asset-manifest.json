@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/VivianDoreen/React-Landing-Page/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/VivianDoreen/React-Landing-Page/static/js/main.55e5dce9.chunk.js",
-    "main.js.map": "/VivianDoreen/React-Landing-Page/static/js/main.55e5dce9.chunk.js.map",
-    "runtime-main.js": "/VivianDoreen/React-Landing-Page/static/js/runtime-main.a8599bf1.js",
-    "runtime-main.js.map": "/VivianDoreen/React-Landing-Page/static/js/runtime-main.a8599bf1.js.map",
-    "static/js/2.c5496a7f.chunk.js": "/VivianDoreen/React-Landing-Page/static/js/2.c5496a7f.chunk.js",
-    "static/js/2.c5496a7f.chunk.js.map": "/VivianDoreen/React-Landing-Page/static/js/2.c5496a7f.chunk.js.map",
-    "static/js/3.ad18d772.chunk.js": "/VivianDoreen/React-Landing-Page/static/js/3.ad18d772.chunk.js",
-    "static/js/3.ad18d772.chunk.js.map": "/VivianDoreen/React-Landing-Page/static/js/3.ad18d772.chunk.js.map",
-    "index.html": "/VivianDoreen/React-Landing-Page/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/VivianDoreen/React-Landing-Page/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.c5496a7f.chunk.js.LICENSE.txt": "/VivianDoreen/React-Landing-Page/static/js/2.c5496a7f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/VivianDoreen/React-Landing-Page/static/media/logo.6ce24c58.svg"
+    "main.css": "./static/css/main.ab7136cd.chunk.css",
+    "main.js": "./static/js/main.55e5dce9.chunk.js",
+    "main.js.map": "./static/js/main.55e5dce9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.57fee7fe.js",
+    "runtime-main.js.map": "./static/js/runtime-main.57fee7fe.js.map",
+    "static/js/2.c5496a7f.chunk.js": "./static/js/2.c5496a7f.chunk.js",
+    "static/js/2.c5496a7f.chunk.js.map": "./static/js/2.c5496a7f.chunk.js.map",
+    "static/js/3.ad18d772.chunk.js": "./static/js/3.ad18d772.chunk.js",
+    "static/js/3.ad18d772.chunk.js.map": "./static/js/3.ad18d772.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "./static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c5496a7f.chunk.js.LICENSE.txt": "./static/js/2.c5496a7f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8599bf1.js",
+    "static/js/runtime-main.57fee7fe.js",
     "static/js/2.c5496a7f.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.55e5dce9.chunk.js"
